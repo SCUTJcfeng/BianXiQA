@@ -1,0 +1,7 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\BianXiQA\BianXiQA\bin\Debug\BianXiQA.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\BianXiQA\BianXiQA\bin\Debug\BianXiQA.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\BianXiQA\BianXiQA\bin\Debug\BianXiQA.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\BianXiQA\BianXiQA\obj\Debug\BianXiQA.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\BianXiQA\BianXiQA\obj\Debug\BianXiQA.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\BianXiQA\BianXiQA\obj\Debug\BianXiQA.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\BianXiQA\BianXiQA\obj\Debug\BianXiQA.csprojResolveAssemblyReference.cache
